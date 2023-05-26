@@ -1,4 +1,3 @@
-VERSION: 0.1.8
 +Shader Compatibility
 +Changelog Start Screen
 +Cookie Link Button
@@ -9,3 +8,4 @@ VERSION: 0.1.8
 #Menu Scrollbars Length
 #ClickGUI Settings Rendering
 #ClickGUI Hovering Glow on overlapping
+VERSION: 0.1.8
