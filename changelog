@@ -11,6 +11,9 @@
 #Scoreboard Cake Hypixel
 VERSION: 0.1.8
 
-+Test
-+Test2
-#Test3
++Fullscreen Borderless Option
++Changelog Button
++NoJumpDelay Module
++Streaming Module
+#Random Crash
+~Seconds Entity Exist Setting into KillAura
