@@ -16,5 +16,6 @@ VERSION: 0.1.8
 +NoJumpDelay Module
 +Streaming Module
 +Trajectories Module
++Ambience Module
 #Random Crash
 ~Seconds Entity Existed Setting into KillAura
