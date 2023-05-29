@@ -18,6 +18,7 @@ VERSION: 0.1.8
 +Trajectories Module
 +Ambience Module
 +Scrolling into Changelog Screen
++Clear Dynamic Button in Accounts Clearing Screen
 #Slider Background Color
 #Configs Refetch > Load Crash
 #ClickGUI Hover Color when dragging
