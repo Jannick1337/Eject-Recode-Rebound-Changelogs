@@ -1,25 +1,3 @@
-+Fullscreen Borderless Option
-+Changelog Button
-+NoJumpDelay Module
-+Streaming Module
-+Trajectories Module
-+Ambience Module
-+Scrolling into Changelog Screen
-+Clear Dynamic Button in Accounts Clearing Screen
-+KillAura Setting "Attack in Screens"
-+KillAura Attacking in Chat and ClickGUI
-+Cape Setting "ClientLauncher"
-+InventoryManager (AutoArmor)
-#Slider Background Color
-#Configs Refetch > Load Crash
-#ClickGUI Hover Color when dragging
-#Select World bug after leaving game
-#MainMenu Screens Scrollbar bug
-#MainMenu Screens Clicking bug when lower sized window
-#Random Crash
-'"Seconds Entity Existed" Setting into KillAura
-VERSION: 0.1.9
-
 +Shader Compatibility
 +Changelog Start Screen
 +Cookie Link Button
@@ -32,3 +10,25 @@ VERSION: 0.1.9
 #ClickGUI Hovering Glow on overlapping
 #Scoreboard Cake Hypixel
 VERSION: 0.1.8
+
++Fullscreen Borderless Option
++Changelog Button
++NoJumpDelay Module
++Streaming Module
++Trajectories Module
++Ambience Module
++Scrolling into Changelog Screen
++Clear Dynamic Button in Accounts Clearing Screen
++KillAura Setting "Attack in Screens"
++KillAura Attacking in Chat and ClickGUI
++Cape Setting "ClientLauncher"
++InventoryManager (Only AutoArmor)
+#Slider Background Color
+#Configs Refetch > Load Crash
+#ClickGUI Hover Color when dragging
+#Select World bug after leaving game
+#MainMenu Screens Scrollbar bug
+#MainMenu Screens Clicking bug when lower sized window
+#Random Crash
+'"Seconds Entity Existed" Setting into KillAura
+VERSION: 0.1.9
