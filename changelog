@@ -17,5 +17,11 @@ VERSION: 0.1.8
 +Streaming Module
 +Trajectories Module
 +Ambience Module
+#Slider Background Color
+#Configs Refetch > Load Crash
+#ClickGUI Hover Color when dragging
+#Select World bug after leaving game
+#MainMenu Screens Scrollbar bug
+#MainMenu Screens Clicking bug when lower sized window
 #Random Crash
 ~Seconds Entity Existed Setting into KillAura
