@@ -20,7 +20,7 @@ VERSION: 0.1.8
 +Scrolling into Changelog Screen
 +Clear Dynamic Button in Accounts Clearing Screen
 +KillAura Setting "Attack in Screens"
-+KillAura Attacking in Escape Menu/Chat and ClickGUI
++KillAura Attacking in Chat and ClickGUI
 +Cape Setting "ClientLauncher"
 +InventoryManager (AutoArmor)
 #Slider Background Color
