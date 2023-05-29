@@ -9,7 +9,7 @@
 #ClickGUI Settings Rendering
 #ClickGUI Hovering Glow on overlapping
 #Scoreboard Cake Hypixel
-VERSION: 0.1.8
+VERSION: 5.1.8
 
 +Fullscreen Borderless Option
 +Changelog Button
@@ -31,3 +31,4 @@ VERSION: 0.1.8
 #MainMenu Screens Clicking bug when lower sized window
 #Random Crash
 '"Seconds Entity Existed" Setting into KillAura
+VERSION: 5.1.9
