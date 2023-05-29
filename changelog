@@ -21,6 +21,7 @@ VERSION: 0.1.8
 +Clear Dynamic Button in Accounts Clearing Screen
 +KillAura Setting "Attack in Screens"
 +KillAura Attacking in Escape Menu/Chat and ClickGUI
++Cape "ClientLauncher" Setting
 #Slider Background Color
 #Configs Refetch > Load Crash
 #ClickGUI Hover Color when dragging
