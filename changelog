@@ -22,7 +22,7 @@ VERSION: 0.1.8
 +KillAura Setting "Attack in Screens"
 +KillAura Attacking in Chat and ClickGUI
 +Cape Setting "ClientLauncher"
-+InventoryManager (AutoArmor)
++InventoryManager (Only AutoArmor)
 #Slider Background Color
 #Configs Refetch > Load Crash
 #ClickGUI Hover Color when dragging
