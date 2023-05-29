@@ -19,6 +19,8 @@ VERSION: 0.1.8
 +Ambience Module
 +Scrolling into Changelog Screen
 +Clear Dynamic Button in Accounts Clearing Screen
++KillAura Setting "Attack in Screens"
++KillAura Attacking in Escape Menu/Chat and ClickGUI
 #Slider Background Color
 #Configs Refetch > Load Crash
 #ClickGUI Hover Color when dragging
