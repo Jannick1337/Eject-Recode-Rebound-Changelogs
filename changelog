@@ -17,6 +17,7 @@ VERSION: 0.1.8
 +Streaming Module
 +Trajectories Module
 +Ambience Module
++Scrolling into Changelog Screen
 #Slider Background Color
 #Configs Refetch > Load Crash
 #ClickGUI Hover Color when dragging
