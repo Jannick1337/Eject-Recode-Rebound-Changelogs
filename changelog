@@ -40,6 +40,7 @@ VERSION: 5.1.9
 +HUD Setting "Sorted"
 +HUD Setting "Sorting Mode"
 +HUD Setting "TabList Blur"
+#W-Tap Module not working when not getting hit
 #Changelog direction
 #Modules toggled though affected by config was false
 #Trajectory Drinking Potions
