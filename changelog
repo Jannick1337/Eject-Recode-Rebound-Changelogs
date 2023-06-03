@@ -47,3 +47,18 @@ VERSION: 5.1.9
 #Performance
 'Basic Settings to bottom position
 VERSION: 5.2.0
+
++Sprint Settings
++Hotbar AutoArmor
++InventoryManager Setting "Armor in Hotbar"
++Module Setting "Mode Color"
++Web Cookie Account Support
++Animation Module
++Friend System
++Friend Commands (Add/Remove/Friend)
+#Some Performance Issues
+#KillAura Rotation
+#Modules toggled though affected by config was false
+#Sorting Bug when switching mode
+#Blending Box ESP when Ambience is enabled
+#Shaders not working causing whitescreen
