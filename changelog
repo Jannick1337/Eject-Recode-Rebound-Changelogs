@@ -56,6 +56,7 @@ VERSION: 5.2.0
 +Animation Module
 +Friend System
 +Friend Commands (Add/Remove/Friend)
++KillAura Setting "Block Animation"
 #Some Performance Issues
 #KillAura Rotation
 #Modules toggled though affected by config was false
