@@ -104,4 +104,4 @@ VERSION: 5.2.1
 #Config Reload Button spam bug
 #Background of opened books being white box
 'Config "set" to "save"
-VERSION 5.2.2
+VERSION: 5.2.2
