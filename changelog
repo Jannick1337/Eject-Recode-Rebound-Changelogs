@@ -67,3 +67,41 @@ VERSION: 5.2.0
 #Shaders not working causing whitescreen
 '"Cookie Link" Button link to web cookie integration link
 VERSION: 5.2.1
+
++SafeWalk Setting "SafeWalk"
++SafeWalk Setting "Random"
++SafeWalk Setting "(Random) Edge offset"
++W-Tap Setting "More Knockback"
++Open Config Folder Button in Client Settings
++AutoPlay (Hypixel)
++ScaffoldWalk
++Web-Cookie getting added and saved
++Proxy Manager (Socks4)
++HUD Setting "Chat Blur"
++Move Correction Module
++Emotes
++KillAura Setting "Force First Hit"
++KillAura Setting "Through Walls"
++Silent Item Switch System
++AutoTool Module
++Friends Setting "CL Friends"
++Flight Module
++Regen Module
++NoFall Module
++ESP Mode "Gradient"
++ChestESP Mode "Gradient"
+#Sword invisible when sword animation toggled off
+#Performance issues
+#KillAura Hitting
+#KillAura attacked friends although Friends was toggled on
+#KillAura Setting "Random Radius" visible when "Random" toggled off
+#KillAura Setting "Multi" attacking Armor Stands
+#Account Manager Account Name going out of information box
+#Shader Cleanup
+#Setting "Mode Color" on modules with no modes
+#Dying entities invisible
+#Reset Color Button not working
+#Config Reload Button spam bug
+#Background of opened books being white box
+'Config "set" to "save"
+
