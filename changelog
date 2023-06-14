@@ -50,7 +50,7 @@ VERSION: 5.2.0
 
 +Sprint Settings
 +Hotbar AutoArmor
-+InventoryManager Setting "Armor in Hotbar"
++ChestStealer Setting "Armor into Hotbar"
 +Module Setting "Mode Color"
 +Web Cookie Account Support
 +Animation Module
