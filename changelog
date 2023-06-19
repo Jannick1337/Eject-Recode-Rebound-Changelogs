@@ -127,3 +127,4 @@ VERSION: 5.2.2
 #Targets Setting "Through Walls Range" visible when "Through Walls" is toggled off
 'Velocity Setting "Jump" jumping no longer when burning or getting poisoned
 -KillAura Setting "Effect Size"
+VERSION: 5.2.3
