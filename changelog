@@ -124,7 +124,7 @@ VERSION: 5.2.2
 #Animation Module bugs when toggled off
 #Cookie Socket Connection
 #Emotes
-#Targets Setting "Through Walls Range" visible when "Through Walls" is toggled off
-'Velocity Setting "Jump" jumping no longer when burning or getting poisoned
+#Targets Setting "Through Walls Range" visible when "Through Walls" off
+'Velocity Setting "Jump" when burning or getting poisoned
 -KillAura Setting "Effect Size"
 VERSION: 5.2.3
