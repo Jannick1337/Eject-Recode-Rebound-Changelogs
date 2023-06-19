@@ -9,7 +9,7 @@
 #ClickGUI Settings Rendering
 #ClickGUI Hovering Glow on overlapping
 #Scoreboard Cake Hypixel
-VERSION: 5.1.8 §7(§626.05.2023§7)
+VERSION: 5.1.8 26.05.2023
 
 +Fullscreen Borderless Option
 +Changelog Button
@@ -31,7 +31,7 @@ VERSION: 5.1.8 §7(§626.05.2023§7)
 #MainMenu Screens Clicking bug when lower sized window
 #Random Crash
 '"Seconds Entity Existed" Setting into KillAura
-VERSION: 5.1.9 §7(§629.05.2023§7)
+VERSION: 5.1.9 29.05.2023
 
 +AccountManager Cracked Account Limit (3-16)
 +NoRotationSet Module
@@ -46,7 +46,7 @@ VERSION: 5.1.9 §7(§629.05.2023§7)
 #Trajectory Drinking Potions
 #Performance
 'Basic Settings to bottom position
-VERSION: 5.2.0 §7(§631.05.2023§7)
+VERSION: 5.2.0 31.05.2023
 
 +Sprint Settings
 +Hotbar AutoArmor
@@ -66,7 +66,7 @@ VERSION: 5.2.0 §7(§631.05.2023§7)
 #Blending Box ESP when Ambience is enabled
 #Shaders not working causing whitescreen
 '"Cookie Link" Button link to web cookie integration link
-VERSION: 5.2.1 §7(§604.06.2023§7)
+VERSION: 5.2.1 04.06.2023
 
 +SafeWalk Setting "SafeWalk"
 +SafeWalk Setting "Random"
@@ -104,7 +104,7 @@ VERSION: 5.2.1 §7(§604.06.2023§7)
 #Config Reload Button spam bug
 #Background of opened books being white box
 'Config "set" to "save"
-VERSION: 5.2.2 §7(§613.06.2023§7)
+VERSION: 5.2.2 13.06.2023
 
 +Regen Setting "Only On Hit"
 +Regen Setting "Every X Ticks"
@@ -127,4 +127,4 @@ VERSION: 5.2.2 §7(§613.06.2023§7)
 #Targets Setting "Through Walls Range" visible when "Through Walls" off
 'Velocity Setting "Jump" when burning or getting poisoned
 -KillAura Setting "Effect Size"
-VERSION: 5.2.3 §7(§619.06.2023§7)
+VERSION: 5.2.3 19.06.2023
