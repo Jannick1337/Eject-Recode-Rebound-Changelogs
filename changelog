@@ -111,6 +111,7 @@ VERSION: 5.2.2
 +Regen Setting "Packet Size"
 +AutoPlay Module using "Play Again" sheet
 +Streaming Module counting players in tablist
++SafeWalk Modes (Sneak/Collision/Hold)
 +ScaffoldWalk Modes (GodBridge/DerpBridge)
 +ScaffoldWalk Setting "Sneak First Block"
 +ScaffoldWalk Setting "Sneaking Blocks"
