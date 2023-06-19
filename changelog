@@ -66,7 +66,7 @@ VERSION: 5.2.0
 #Blending Box ESP when Ambience is enabled
 #Shaders not working causing whitescreen
 '"Cookie Link" Button link to web cookie integration link
-VERSION: 5.2.1 §7(§604.06.2023)
+VERSION: 5.2.1 §7(§604.06.2023§7)
 
 +SafeWalk Setting "SafeWalk"
 +SafeWalk Setting "Random"
@@ -104,7 +104,7 @@ VERSION: 5.2.1 §7(§604.06.2023)
 #Config Reload Button spam bug
 #Background of opened books being white box
 'Config "set" to "save"
-VERSION: 5.2.2 §7(§613.06.2023)
+VERSION: 5.2.2 §7(§613.06.2023§7)
 
 +Regen Setting "Only On Hit"
 +Regen Setting "Every X Ticks"
@@ -127,4 +127,4 @@ VERSION: 5.2.2 §7(§613.06.2023)
 #Targets Setting "Through Walls Range" visible when "Through Walls" off
 'Velocity Setting "Jump" when burning or getting poisoned
 -KillAura Setting "Effect Size"
-VERSION: 5.2.3 §7(§619.06.2023)
+VERSION: 5.2.3 §7(§619.06.2023§7)
