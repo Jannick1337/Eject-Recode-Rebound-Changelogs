@@ -105,3 +105,24 @@ VERSION: 5.2.1
 #Background of opened books being white box
 'Config "set" to "save"
 VERSION: 5.2.2
+
++Regen Setting "Only On Hit"
++Regen Setting "Every X Ticks"
++Regen Setting "Packet Size"
++AutoPlay Module using "Play Again" sheet
++Streaming Module counting players in tablist
++ScaffoldWalk Modes (GodBridge/DerpBridge)
++ScaffoldWalk Setting "Sneak First Block"
++ScaffoldWalk Setting "Sneaking Blocks"
++ScaffoldWalk Setting "Toggle KillAura"
++ScaffoldWalk Setting "Render Block"
++ScaffoldWalk Setting "Block Color"
++ScaffoldWalk Setting "First Rotation Yaw Speed"
++ScaffoldWalk Setting "First Rotation Pitch Speed"
+#Silent system hotbar bugs
+#Animation Module bugs when toggled off
+#Cookie Socket Connection
+#Emotes
+#Targets Setting "Through Walls Range" visible when "Through Walls" is toggled off
+'Velocity Setting "Jump" jumping no longer when burning or getting poisoned
+-KillAura Setting "Effect Size"
