@@ -141,6 +141,10 @@ VERSION: 5.2.3 19.06.2023
 +HUD Setting "Start Color"
 +HUD Setting "End Color"
 +HUD Setting "Show Armor"
++ESP including friends
++ESP Setting "Friend Gradient Color"
++ESP Setting "Own Player"
+#FontRenderer replacing "Player" in ClickGUI
 #Performance
 #Sword Animation Bugs
 #ScaffoldWalk Mode not shown in Module List
