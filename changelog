@@ -133,6 +133,7 @@ VERSION: 5.2.3 19.06.2023
 +Blink Module
 +Targets Setting "Switch FOV"
 +ScaffoldWalk Setting "Speed Slowdown"
++NoFall Modes (Spoof Ground/No Ground/Spoof Water)
 +HUD Setting "Fading Mode"
 +HUD Setting "Animate Fading"
 +HUD Setting "Rainbow Speed"
