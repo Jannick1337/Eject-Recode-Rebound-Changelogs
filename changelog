@@ -129,8 +129,8 @@ VERSION: 5.2.2 13.06.2023
 -KillAura Setting "Effect Size"
 VERSION: 5.2.3 19.06.2023
 
-+NameTags Module
-+Blink Module
++NameTags Module (TargetHUD included)
++Blink Module (Right click to reset position)
 +Targets Setting "Switch FOV"
 +ScaffoldWalk Setting "Speed Slowdown"
 +NoFall Modes (Spoof Ground/No Ground/Spoof Water)
