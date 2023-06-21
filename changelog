@@ -128,3 +128,22 @@ VERSION: 5.2.2 13.06.2023
 'Velocity Setting "Jump" when burning or getting poisoned
 -KillAura Setting "Effect Size"
 VERSION: 5.2.3 19.06.2023
+
++NameTags Module
++Blink Module
++Targets Setting "Switch FOV"
++ScaffoldWalk Setting "Speed Slowdown"
++HUD Setting "Fading Mode"
++HUD Setting "Animate Fading"
++HUD Setting "Rainbow Speed"
++HUD Setting "Rainbow Offset"
++HUD Setting "Start Color"
++HUD Setting "End Color"
++HUD Setting "Show Armor"
+#Performance
+#Sword Animation Bugs
+#ScaffoldWalk Mode not shown in Module List
+#ScaffoldWalk using SoulSand blocks
+#ScaffoldWalk not using glass
+#ScaffoldWalk using pumpkins
+'AccountManager changing to random names and digits
