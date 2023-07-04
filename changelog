@@ -168,3 +168,24 @@ VERSION: 5.2.4 21.06.2023
 #Performance
 'Friend Name caching
 VERSION: 5.2.5 24.06.2023
+
++AutoPlay Hycraft detection
++IGN Command
++KillAura Setting "Rotated On Target"
++ForceField Module
++"F" and "C" Command Alias (Friend/Config)
++AutoRegister Setting "Login"
++AutoRegister Setting "Register"
++Tracers Module
++NoSlowdown Module
++Visual Config List in client settings
++AutoClicker Clicking Modes(Basic/Mouse Abuse) 
++KillAura Clicking Modes (Basic/Mouse Abuse)
++ScaffoldWalk Modes (Tellybridge/Derpbridge)
+#Velocity Reduce when Vanilla Mode
+#AutoMLG NoFall
+#Switch Aura Range
+#LocalConfig VI
+#LongJump Timer Bug
+#AutoRegister on server switch
+'Hit Slowdown into NoSlowdown
