@@ -197,3 +197,20 @@ VERSION: 5.2.6 04.07.2023
 #BackTrack issues
 #ForceField desync only on walk
 VERSION: 5.2.7 06.07.2023
+
++GUIMove Module
++Strafe Module
++InventoryManager Sorting (not finished)
+#ScaffoldWalk Autobans
+#ScaffoldWalk Jumping
+#ScaffoldWalk Godbridge Blocksaving
+#AutoRegister saving /reg command
+#Multiaura not hitting
+#Config Switch Packet fail
+#Backtrack
+'Modules toggleable in screens
+'TellyBridge rotations
+'KillAura Random Rotations
+*KillAura
+*Backtrack
+VERSION: 5.2.8 15.07.2023
