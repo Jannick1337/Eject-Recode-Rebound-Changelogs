@@ -230,3 +230,14 @@ VERSION: 5.2.8 15.07.2023 BETA
 *Backtrack Module
 *Scaffold Godbridge Blocksafe
 VERSION: 5.2.9 24.07.2023 BETA
+
++AntiBot Module
++VClip Module
++Speed Module
++BedFucker Module
++ScaffoldWalk Setting "Snap"
++ScaffoldWalk Setting "Auto Jump"
++HUD ModuleList Setting "Screen Offset (X/Y)"
+#ScaffoldWalk Setting "Only Same Position Y" when jumping
+#AutoPlay did not switch item back
+#NoSlowdown Percentages
