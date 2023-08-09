@@ -241,4 +241,5 @@ VERSION: 5.2.9 24.07.2023 BETA
 +HUD ModuleList Setting "Screen Offset (X/Y)"
 #ScaffoldWalk Setting "Only Same Position Y" when jumping
 #AutoPlay did not switch item back
+#Modules toggleable in MainMenu
 #NoSlowdown Percentages
