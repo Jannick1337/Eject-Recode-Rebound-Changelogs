@@ -244,3 +244,9 @@ VERSION: 5.2.9 24.07.2023
 #Modules toggleable in MainMenu
 #NoSlowdown Percentages
 VERSION: 5.3.0 09.08.2023
+
++TickBase Module (Future/Past)
++Sprint Setting "Keep Sprint" for attacking
++Flight Mode "Grim"
+*ScaffoldWalk Blocksaving
+VERSION: 5.3.1 14.08.2023 BETA
