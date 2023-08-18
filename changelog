@@ -256,4 +256,5 @@ VERSION: 5.3.1 14.08.2023
 #Backtrack doing less when strafing
 #Backtrack Crash
 'Max value of HUD ModuleList Setting "Screen Offset (X/Y)"
+*Scaffold Blocksaving (minimal)
 VERSION: 5.3.2 18.08.2023
