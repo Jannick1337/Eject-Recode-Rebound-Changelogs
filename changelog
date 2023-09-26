@@ -282,3 +282,14 @@ VERSION: 5.3.3 26.08.2023
 'ScaffoldWalk stopping on 1 block left
 -NewBacktrack Module
 VERSION: 5.3.4 18.09.2023
+
++Extinguish Module
++CombatHelper Module
++InventoryManager Soup and Water set
++AirStuck Module
++NewBacktrack (Test)
+#NoFall Mode "AutoMLG"
+*KillAura
+*TickBase
+*Prediction
+VERSION: 26.09.2023 BETA
