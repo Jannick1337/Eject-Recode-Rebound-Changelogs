@@ -329,6 +329,7 @@ VERSION: 5.3.5 26.09.2023
 #Extinguish Switch Bug
 #Health Target Mode
 *Performance
+*KillAura Module
 'ClientSettings Design
 'HUD Setting "Chat Blur" to "Blur Chat"
 -HUD List Setting "Blur Sigma"
