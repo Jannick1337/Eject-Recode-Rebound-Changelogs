@@ -295,3 +295,45 @@ VERSION: 5.3.4 18.09.2023
 *TickBase
 *Prediction
 VERSION: 5.3.5 26.09.2023
+
++GUI Module
++HitColor Module
++Custom HUD
++HUD Setting "Show Time"
++HUD Setting "Show Ping"
++HUD Setting "Blur Armor"
++HUD Setting "Blur Inventory"
++HUD Setting "Blur Text Boxes"
++Window and Taskbar Icon
++HUD Watermark Mode "Eject"
++HUD Eject Watermark Modes (9)
++HUD Setting "Custom Hotbar"
++HUD Setting "Blur Hotbar"
++HUD Setting "Hotbar Switch Animation"
++HUD Setting "Hotbar Holding Color"
++HUD Setting "Blur Scoreboard"
++HUD List Setting "Line"
++HUD List Setting "Line Offset Y"
++HUD List Setting "Blur Line"
++HUD List Setting "Line Color"
++Lighting Module
++AntiFire Module
++ItemPhysics Module
++HitColor Module
++ScaffoldWalk Setting "Blur Show Blocks"
++ClientSettings "AccountManager" Butto0,
++Glow GUI
+#Movement Correction Module
+#Menu toggling Modules Crash
+#InventoryManager Crash
+#Extinguish Switch Bug
+#Health Target Mode
+*Performance
+'ClientSettings Design
+'HUD Setting "Chat Blur" to "Blur Chat"
+-HUD List Setting "Blur Sigma"
+-HUD List Setting "Blur Size"
+-HUD List Setting "Screen Offset X/Y"
+-NameTags Setting "Blur Sigma"
+-NameTags Setting "Blur Size"
+-ClientSettings "Reset Color" button
