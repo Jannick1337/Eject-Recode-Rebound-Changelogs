@@ -328,6 +328,7 @@ VERSION: 5.3.5 26.09.2023
 #InventoryManager Crash
 #Extinguish Switch Bug
 #Health Target Mode
+#ScaffoldWalk not placing when jumping
 *Performance
 *KillAura Module
 'ClientSettings Design
@@ -338,3 +339,4 @@ VERSION: 5.3.5 26.09.2023
 -NameTags Setting "Blur Sigma"
 -NameTags Setting "Blur Size"
 -ClientSettings "Reset Color" button
+VERSION: 5.3.6 05.10.2023
