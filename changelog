@@ -340,3 +340,38 @@ VERSION: 5.3.5 26.09.2023
 -NameTags Setting "Blur Size"
 -ClientSettings "Reset Color" button
 VERSION: 5.3.6 05.10.2023
+
++HUD ModuleList Setting "Line Width"
++WTap Setting "Only On Ground"
++NoHurtcam Module
++ZoomAnimation Module
++ScaffoldWalk soul sand integration
++ScaffoldWalk Mode "Normal"
++ScaffoldWalk Mode "FastBridge"
++ScaffoldWalk Mode "BreezilyBridge"
++ScaffoldWalk Setting "Silent Breezily"
+#ClickGUI ComboBox render bug
+#AutoSoup souping too fast
+#Minecraft Crash in Multiplayer
+#ScaffoldWalk Speed potion issue
+#ScaffoldWalk Mode "GodBridge"
+#Velocity "Vanilla" Mode
+#InventoryManager swapping blocks
+#Theme changeable in Changelog screen
+#VisualConfigs Checkboxes change
+#VisualConfigs Watermark change
+#VisualConfigs colors changing back
+#CustomHUD Blur existing when textboxes not shown
+#NameTags Streaming Module not doing anything
+#AirStuck Module Velocity and Movement issue
+#Self decidable settings affected by config
+*KillAura
+*Backtrack
+'HUD ModuleList Setting "Line Offset Y" to decimals
+'ScaffoldWalk Mode "Test" to several modes
+'ScaffoldWalk Mode System (UPDATE YOUR CONFIGS)
+'ScaffoldWalk Setting "Breezily" to a mode
+'ScaffoldWalk Setting "Breezily Ticks" getting randomized
+'Flight Setting "Lag Spoof" visibility only in Grim Mode
+-Velocity "Place Water" Setting
+VERSION: 5.3.7 17.10.2023 BETA
