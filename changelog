@@ -375,3 +375,31 @@ VERSION: 5.3.6 05.10.2023
 'Flight Setting "Lag Spoof" visibility only in Grim Mode
 -Velocity "Place Water" Setting
 VERSION: 5.3.7 17.10.2023
+
++Brightness Module
++Intave Through Walls Bedfucker
++BackTrack Modes "Basic / Extreme"
++Velocity Jump Chance
++ClickGUI Recode / Old Theme coming back soon with other themes :)
++ClickGUI Show Config Button
++TargetHUD Module
++WTap Setting "Chance"
++MidClick Friends
++Command config list
++TNTBlock Module
++CombatHelper Modes in ModuleList
++NameTags Mode "Simple"
++AntiWeb Module
++Bedfucker Through Walls (Intave)
++Pointers aka "Out of FOV Arrows"
+#ScaffoldWalk on Gomme (Godbridge)
+#KillAura Randomization
+*Improved Hit after TickBase
+*BackTrack basic mode works better on polar
+*AutoBlock improvement
+'Eject folder now in .clientlauncher folder
+'Default Theme was changed to actually having good settings and not just default values
+'ClickGUI Color now in ClickGUI not in ClientSettings
+'Friend Color now in ESP not in Friend Module
+'TargetHUD Settings are now in TargetHUD module instead of nametags
+'ClickGUI Custom HUD Button to icon
