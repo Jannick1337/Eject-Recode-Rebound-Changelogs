@@ -380,7 +380,7 @@ VERSION: 5.3.7 17.10.2023
 +Intave Through Walls Bedfucker
 +BackTrack Modes "Basic / Extreme"
 +Velocity Jump Chance
-+ClickGUI Recode / Old Theme coming back soon with other themes :)
++ClickGUI Recode (not finished other themes)
 +ClickGUI Show Config Button
 +TargetHUD Module
 +WTap Setting "Chance"
@@ -397,8 +397,8 @@ VERSION: 5.3.7 17.10.2023
 *BackTrack basic mode works better on polar
 *AutoBlock improvement
 'Eject folder now in .clientlauncher folder
-'Default Theme was changed to actually having good settings and not just default values
+'Default Theme Settings
 'ClickGUI Color now in ClickGUI not in ClientSettings
 'Friend Color now in ESP not in Friend Module
-'TargetHUD Settings are now in TargetHUD module instead of nametags
+'TargetHUD Settings into TargetHUD Module
 'ClickGUI Custom HUD Button to icon
