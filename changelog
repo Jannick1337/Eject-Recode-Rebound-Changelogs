@@ -380,11 +380,15 @@ VERSION: 5.3.7 17.10.2023
 +Intave Through Walls Bedfucker
 +BackTrack Modes "Basic / Extreme"
 +Velocity Jump Chance
++Ambience Mode "Gradient"
 +ClickGUI Recode (not finished other themes)
 +ClickGUI Show Config Button
++ClickGUI Open State Color Picker
++ClickGUI Targets Icon Button
 +TargetHUD Module
 +WTap Setting "Chance"
-+MidClick Friends
++WTap Setting "Random Hurt Time"
++MidClickFriends Module
 +Command config list
 +TNTBlock Module
 +CombatHelper Modes in ModuleList
@@ -392,14 +396,15 @@ VERSION: 5.3.7 17.10.2023
 +Bedfucker Through Walls (Intave)
 +Pointers aka "Out of FOV Arrows"
 #ScaffoldWalk on Gomme (Godbridge)
-#KillAura Randomization
-*Improved Hit after TickBase
-*BackTrack basic mode works better on polar
-*AutoBlock improvement
+#CustomHUD Scoreboard offset
+#Random Crashes
+*Hit after TickBase
+*AutoBlock
 'Eject folder now in .clientlauncher folder
 'Default Theme Settings
 'ClickGUI Color now in ClickGUI not in ClientSettings
 'Friend Color now in ESP not in Friend Module
 'TargetHUD Settings into TargetHUD Module
 'ClickGUI Custom HUD Button to icon
-VERSION: 5.3.8 14.11.2023 BETA
+-KillAura Changes
+VERSION: 5.3.8 22.11.2023
