@@ -408,3 +408,11 @@ VERSION: 5.3.7 17.10.2023
 'ClickGUI Custom HUD Button to icon
 -KillAura Changes
 VERSION: 5.3.8 22.11.2023
+
++Sneak Module
++CombatHelper "AutoPot" Setting
++CombatHelper "Pot Min Health" Setting
++Disabler Module
++CL Config Implementation
+#Backtrack Invisible Players
+VERSION: 5.3.9 17.12.2023
