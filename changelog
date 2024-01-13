@@ -429,6 +429,7 @@ VERSION: 5.4.0 28.12.2023
 +NameTags Armor- and Healthbar background
 +NoArmor Module
 +ClientSetting "Bloom"
++ClientSetting "Use Custom Font"
 +AutoWalk Module
 +FreeLook Module
 +TabOut Module
