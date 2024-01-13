@@ -422,3 +422,22 @@ VERSION: 5.3.9 17.12.2023
 #KillAura Rotating Issue
 #Module List Line Side Left
 VERSION: 5.4.0 28.12.2023
+
++Skin Command
++CustomSkin Module
++ScaffoldWalk Setting "Search Range"
++NameTags Armor- and Healthbar background
++NoArmor Module
++ClientSetting "Bloom"
++AutoWalk Module
++FreeLook Module
++TabOut Module
+#Velocity jumping on fall damage
+#KillAura Rotating Issue
+#NameTags own armor on enemies
+#Colorways gone
+'AutoPlay/Teams/AutoRegister into World
+'Disabler into Exploit
+*Performance EXTREMELY
+-KillAura Setting "Block Animation"
+VERSION: 5.4.1 13.01.2024 BETA
