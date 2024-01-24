@@ -433,6 +433,7 @@ VERSION: 5.4.0 28.12.2023
 +AutoWalk Module
 +FreeLook Module
 +TabOut Module
++Module List Gradient Line
 #Velocity jumping on fall damage
 #KillAura Rotating Issue
 #NameTags own armor on enemies
@@ -441,4 +442,4 @@ VERSION: 5.4.0 28.12.2023
 'Disabler into Exploit
 *Performance EXTREMELY
 -KillAura Setting "Block Animation"
-VERSION: 5.4.1 13.01.2024 BETA
+VERSION: 5.4.1 24.01.2024
