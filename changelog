@@ -443,3 +443,10 @@ VERSION: 5.4.0 28.12.2023
 *Performance EXTREMELY
 -KillAura Setting "Block Animation"
 VERSION: 5.4.1 24.01.2024
+
++Command "config folder"
++Command "config reload"
++KillAura Setting "FOV"
+#Scaffold Rotations "Normal"
+#Config case sensitive when loading
+VERSION: 5.4.2 29.02.2024
