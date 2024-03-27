@@ -460,10 +460,12 @@ VERSION: 5.4.3 07.03.2024
 +NoEXP Module
 +Tower Module
 +FastUse Module
++FastUse Bow Settings
 +BedFucker AutoTool Integration
 +BedESP
 #KillAura
 #AutoBlock
+#(Revered) Velocity Reduce Mode
 #ScaffoldWalk Crash
 #Pictures Crash
-VERSION: 5.4.4 16.03.2024 BETA
+VERSION: 5.4.4 16.03.2024
