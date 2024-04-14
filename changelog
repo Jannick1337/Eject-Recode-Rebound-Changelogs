@@ -469,3 +469,14 @@ VERSION: 5.4.3 07.03.2024
 #ScaffoldWalk Crash
 #Pictures Crash
 VERSION: 5.4.4 27.03.2024
+
++Animation Setting "Fake Block"
++TickBase Setting "Only KillAura"
++BackTrack Setting "Only KillAura"
++Blink Setting "Pulse"
++Blink Setting "Pulse Ticks"
++Discord Rich Presence Module
+#Spammer
+#Event System Crashes
+#BedFucker Distance Check
+VERSION: 5.4.5 15.04.2024
