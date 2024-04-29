@@ -492,3 +492,17 @@ VERSION: 5.4.5 17.04.2024
 #TickBase Setting "Only KillAura"
 -BackTrack Modes
 VERSION: 5.4.6 26.04.2024
+
++AntiBlindness Module
++AutoClicker LeftClick Setting "AutoAttack"
+#HUD ModuleList sorting bug
+#HUD ModuleList background bug
+#Velocity Setting "X Percentage" 0%
+#Chat Render Bug when Chams/ESP
+#ChestESP Box Color
+#ESP Setting causing crashes
+-KillAura Setting "Force First Hit"
+-KillAura Setting "First Hit Percentage"
+-KillAura Setting "Force Clicks"
+-KillAura AutoBlock Settings
+VERSION: 5.4.7 29.04.2024
