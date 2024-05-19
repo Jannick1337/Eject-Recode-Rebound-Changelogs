@@ -506,3 +506,11 @@ VERSION: 5.4.6 26.04.2024
 -KillAura Setting "Force Clicks"
 -KillAura AutoBlock Settings
 VERSION: 5.4.7 29.04.2024
+
++Animation Module "Apply To All Items"
++Flight Mode "Collision"
+#ESP Module (recode)
+#GUI Shader
+-Prediction Module
+#Blink Player remove
+VERSION: 5.4.8 19.05.2024 BETA
