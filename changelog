@@ -509,8 +509,17 @@ VERSION: 5.4.7 29.04.2024
 
 +Animation Module "Apply To All Items"
 +Flight Mode "Collision"
++ESP Shader Setting "Rainbow"
++ESP Shader Setting "Pulse"
++ChestESP Shader Setting "Rainbow"
+#AutoPot trying drink potions
 #ESP Module (recode)
+#ESP Blue when using shaders
 #GUI Shader
--Prediction Module
 #Blink Player remove
-VERSION: 5.4.8 19.05.2024 BETA
+#GUIMove in ClickGUI Settings
+#Show Inventory Setting
+#HUGE PERFORMANCE ISSUE WITH HUD
+#Changelog order
+-Prediction Module
+VERSION: 5.4.8 24.05.2024
