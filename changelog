@@ -523,3 +523,19 @@ VERSION: 5.4.7 29.04.2024
 #Changelog order
 -Prediction Module
 VERSION: 5.4.8 24.05.2024
+
++HUD ModuleList Setting "Import Font"
++ESP Setting "Target"
++ESP SettingGroup "Target Settings"
+#ESP Crash on HypeMC
+#FakeBlock not resetting
+#Polar Scaffold Checks
+#ScaffoldWalk jumping randomly down
+#ScaffoldWalk not using last block
+#ScaffoldWalk double placing block
+#ScaffoldWalk rotation flicking
+#CustomSkin showing real name
+#ClientSettings not saving
+*ScaffoldWalk GodBridge
+'ScaffoldWalk when no blocks from disable to sneak
+VERSION: 5.4.9 03.07.2024
