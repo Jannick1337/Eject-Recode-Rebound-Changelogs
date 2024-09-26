@@ -539,3 +539,20 @@ VERSION: 5.4.8 24.05.2024
 *ScaffoldWalk GodBridge
 'ScaffoldWalk when no blocks from disable to sneak
 VERSION: 5.4.9 03.07.2024
+
++Bobbing Module
++ChestAura Module
++ESP SettingGroup "Redstone Chests"
++ESP SettingGroup "Ender Chests"
++ChestESP bindable with ".bind esp_chests key"
++GUIMove in Settings
++Command "savehotbar" for InventoryManager
++Recoded InventoryManager
++InventoryManager Setting "Hotbar Sorting" (Screen)
+#SkinModule showing real name
+#ScaffoldWalk RayTrace crash
+#ScaffoldWalk RayTrace building
+#Sprint diagonal direction fix
+#HUD showing inventory when setting is off
+#FakeBlock only tools and swords now
+VERSION: 5.5.0 26.09.2024
