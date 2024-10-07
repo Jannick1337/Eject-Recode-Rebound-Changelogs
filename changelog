@@ -556,21 +556,3 @@ VERSION: 5.4.9 03.07.2024
 #HUD showing inventory when setting is off
 #FakeBlock only tools and swords now
 VERSION: 5.5.0 26.09.2024
-
-+new Emotes
-+Velocity Mode "PolarBlock"
-+Emotes Command ".emotes <list|tutorial>"
-+Panic Command ".panic" (visuals are staying toggled)
-+Spammer Command ".spammer <add> <message>"
-+Step Module
-+Step Modes (Vulcan/Vanilla)
-+AutoRespond Module
-+Spammer Modes (Custom/Emote/Client)
-+ChestStealer Silent Setting
-+ChestStealer Silent Stealing-Indicator
-#Bow-Trajectories rendering with untensioned bow
-#TargetESP when KillAura not toggled
-#Nametags showing wrong health on Gomme
-'Spammer
-'Changelog writer (Hizzy)
-VERSION: 5.5.1 07.10.2024 BETA
