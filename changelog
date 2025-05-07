@@ -593,3 +593,18 @@ VERSION: 5.5.2 31.10.2024
 +Speed Mode Setting (Legit, Custom)
 #Microsoft Alt Login
 VERSION: 5.5.3 01.12.2024 BETA
+
++AntiVoid Mode (BlocksMC)
++Provided Stuff
+#Friends System
++ModelModifierModule
+-Icarus Theme (incomplete for the Most part)
+*BedFucker: now checks if there is a KillAura Target
+-CLAPI 
++AntiStaff Module
++AntiStaff Modes (BlocksMC & HypeMC)
++KillMessage
++Disabler Mode (Spoof Bedrock)
++HighJump Module
++HighJump Modes (Vulcan & Vanilla)
+VERSION: 5.5.4 07.05.2025
