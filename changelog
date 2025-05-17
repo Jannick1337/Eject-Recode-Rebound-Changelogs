@@ -608,3 +608,15 @@ VERSION: 5.5.3 01.12.2024 BETA
 -Icarus Theme (incomplete for the Most part)
 -CLAPI 
 VERSION: 5.5.4 07.05.2025
+
++Delay Ticks Slider in InventoryManager
++Delay Velocity Slider in Vanilla Velocity Mode
++Sneak in GUI setting in GuiMove
++Packet Nofall Mode
++Tick before Velocity Setting (Vanilla Velocity Mode)
++Tower Mode "Legit"
+'Tower Module to use Modes
+#Login into Added alts
+-Hotbar sorting
+-ClientLauncher Cape
+VERSION: 5.5.5 18.05.2025
