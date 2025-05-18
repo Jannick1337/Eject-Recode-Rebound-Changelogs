@@ -611,7 +611,7 @@ VERSION: 5.5.4 07.05.2025
 
 +Delay Ticks Slider in InventoryManager
 +Delay Velocity Slider in Vanilla Velocity Mode
-+Sneak in GUI setting in GuiMove
++Sneak in GUI setting in GuiMove (Credits to tobi hackt)
 +Packet Nofall Mode
 +Tick before Velocity Setting (Vanilla Velocity Mode)
 +Tower Mode "Legit"
